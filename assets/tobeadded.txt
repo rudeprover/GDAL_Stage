@@ -1,0 +1,1 @@
+this file contains list of concepts or maps to be decoded or decrypt in order to understand Geodesy and related ideas better.
